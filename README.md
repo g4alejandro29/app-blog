@@ -1,3 +1,4 @@
 # app-blog
 aplicacion creada con expo-cli y json-server
-.. image:: ../index_blog.png
+ ![Screenshot](index_blog.png) 
+
