@@ -6,3 +6,6 @@ aplicacion creada con expo-cli y json-server
 
  ![Screenshot](index_blog.png) 
 
+## Form add
+
+![Screenshot](add_blog.png)
